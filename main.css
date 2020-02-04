@@ -1,0 +1,17 @@
+body {
+	background-color: #2D2A2E;
+}
+
+.img-container {
+	text-align: center;
+	display: block;
+}
+
+.central_logo {
+	width:67px;height:56px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -33.5px; /* Half the height */
+	margin-left: -28px; /* Half the width */
+}
