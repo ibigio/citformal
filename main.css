@@ -40,16 +40,20 @@ h2 {
 }
 
 
-h3:nth-child(3n+0) {
+h3:nth-of-type(4n+1) {
 	color: #FC9867;
 }
 
-h3:nth-child(3n+1) {
+h3:nth-of-type(4n+3) {
 	color: #FFD866;
 }
 
-h3:nth-child(3n+2) {
+h3:nth-of-type(4n+2) {
 	color: #AB9DF2;
+}
+
+h3:nth-of-type(4n+0) {
+	color: #A9DC76;
 }
 
 h3.comment {
