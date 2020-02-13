@@ -24,7 +24,7 @@
 body {
 	background-color: #2B292E;
 	font-family: 'Roboto Mono', monospace;
-	margin: 3em;
+	margin: 1em;
 }
 
 h1 {
@@ -84,6 +84,10 @@ a {
 	#logo {
 		width: 20em;
 		height: auto;
+	}
+
+	body {
+		margin: 3em;
 	}
 }
 
